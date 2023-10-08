@@ -1,0 +1,13 @@
+# To download the files in this manifest, first install s5cmd (https://github.com/peak/s5cmd),
+# then run the following command:
+# s5cmd --no-sign-request --endpoint-url https://s3.amazonaws.com run study_manifest_aws.s5cmd
+cp s3://idc-open-data/9711f36d-987b-41dc-9aa7-29521e5a4cca/* .
+cp s3://idc-open-data/74cd02ae-554a-4133-8490-147523f76555/* .
+cp s3://idc-open-data/1029e215-2550-413c-a723-2ec3fd7fc7b0/* .
+cp s3://idc-open-data/774393e7-fdb5-4866-b4a2-1caa4dd93bf9/* .
+cp s3://idc-open-data/0e50db41-1051-4a9b-a8f3-90d2db12b40a/* .
+cp s3://idc-open-data/fd1d9fbf-5fcc-492f-8ed8-e73b17f8a7fd/* .
+cp s3://idc-open-data/c09158a3-9a25-439a-8d4e-155a7d1463b4/* .
+cp s3://idc-open-data/d2dbc295-f980-4e00-ac56-acbe2e764525/* .
+cp s3://idc-open-data/e6310599-c59c-4e3a-9718-2ba8122c6ab9/* .
+cp s3://idc-open-data/37760583-2b23-4665-b1bf-0e5da3be00cb/* .
